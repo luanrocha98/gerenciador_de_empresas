@@ -1,3 +1,5 @@
+//GRUPO: ANDRÉ HABBIB && LUAN ROCHA
+
 #ifndef EMPRESA_H
 #define EMPRESA_H
 

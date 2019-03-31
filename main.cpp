@@ -1,5 +1,8 @@
+//GRUPO: ANDRÉ HABBIB && LUAN ROCHA
+
+
 #include  <iostream>
- #include "empresa.h"
+#include "empresa.h"
 #include "funcionario.h"
 
 int Funcionario::numeroDeFuncionarios = 0;

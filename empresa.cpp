@@ -1,3 +1,5 @@
+//GRUPO: ANDRÉ HABBIB && LUAN ROCHA
+
 #include "empresa.h"
 
 
