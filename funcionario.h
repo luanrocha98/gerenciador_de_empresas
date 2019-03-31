@@ -1,3 +1,5 @@
+//GRUPO: ANDRÉ HABBIB && LUAN ROCHA
+
 #ifndef FUNCIONARIO_H
 #define FUNCIONARIO_H
 
